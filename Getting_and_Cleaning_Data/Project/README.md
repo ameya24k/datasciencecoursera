@@ -1,5 +1,6 @@
 # Getting and Cleaning Data Project
-Author - Ameya Kulkarni\n
+Author - Ameya Kulkarni
+
 Refered Dataset - [Human Activity Recognition Using Smartphones Dataset](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 ## Description
