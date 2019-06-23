@@ -174,5 +174,5 @@ The following files are available for the train and test data. Their description
    - All start with character t in column’s name replaced by Time
 
 7. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject
-   - TidyDataSet (180 rows, 88 columns) is created by sumarizing TidyData taking the means of each variable for each activity and each subject, by grouping subject, ActivityName and ActivityCode.
+   - TidyDataSet (180 rows, 89 columns) is created by sumarizing TidyData taking the means of each variable for each activity and each subject, by grouping subject, ActivityName and ActivityCode.
    - Export FinalData into FinalData.txt file.
